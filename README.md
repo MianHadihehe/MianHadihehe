@@ -1,7 +1,7 @@
 <h1 align="center">6 Mian Abdul Hadi</h1>
 <h3 align="center">A zestful software engineer</h3>
 
-<img align="right"alt="coding"width="400" src="https://www.moradam.com/wp-content/uploads/2020/09/Yazılımcı-Gif.gif”>
+<img align="right"alt="coding"width="400" src="https://www.moradam.com/wp-content/uploads/2020/09/Yazılımcı-Gif.gif">
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mianhadihehe&label=Profile%20views&color=0e75b6&style=flat" alt="mianhadihehe" /> </p>
 
